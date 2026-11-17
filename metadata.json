@@ -1,0 +1,8 @@
+{
+  "name": "花街投壶",
+  "description": "基于实时真实A股行情的华尔街分析风格量化选股系统、多因子交易信号与深度风险预警",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
